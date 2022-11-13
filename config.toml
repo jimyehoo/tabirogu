@@ -1,4 +1,4 @@
 baseURL = 'http://tabirogu.onrender.com/'
 languageCode = 'en-us'
 title = 'My Render Hugo Site'
-theme = 'restaurant-hugo'
+theme = 'ga-hugo-theme'
