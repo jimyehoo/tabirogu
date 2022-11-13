@@ -6,7 +6,7 @@
 	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme
 [submodule "themes/gohugo-theme-ananke"]
 	path = themes/gohugo-theme-ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+	url = https://github.com/jimyehoo/gohugo-theme-ananke.git
 [submodule "themes/ga-hugo-theme"]
 	path = themes/ga-hugo-theme
 	url = https://github.com/giraffeacademy/ga-hugo-theme
