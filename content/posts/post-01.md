@@ -7,5 +7,5 @@ author: "Ken"
 ---
 
 ##First## post at **Tabirogu** !!!
-Hello World*!!!*
+Hello World!!!
 {{< youtube pCPCQgqC8RA >}}
