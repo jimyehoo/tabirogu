@@ -13,8 +13,8 @@
         <div class="" style="font-size:20px;">
             <a href="{{.URL}}">{{ .Title }}</a>
         </div>
-        <div class="" style="color:grey; font-size:16px;">{{ if . Params.tags }}<strong>Tags:</strong></div>
-        <div class="" style="color:grey; font-size:16px;">{{ if . Params.categories }}<strong>Categories:</strong></div>
+        <div class="" style="color:grey; font-size:16px;">{{ if .Params.tags }}<strong>Tags:</strong></div>
+        <div class="" style="color:grey; font-size:16px;">{{ if .Params.categories }}<strong>Categories:</strong></div>
         <p style="font-size:18px;"> {{ .Summary }}</p>
     </div>
     {{ end }}
