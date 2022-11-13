@@ -13,3 +13,15 @@
 [submodule "themes/restaurant-hugo"]
 	path = themes/restaurant-hugo
 	url = https://github.com/gethugothemes/restaurant-hugo.git
+[submodule "themes/liva-hugo"]
+	path = themes/liva-hugo
+	url = https://github.com/gethugothemes/liva-hugo.git
+[submodule "themes/hugo-travelify-theme"]
+	path = themes/hugo-travelify-theme
+	url = https://github.com/balaramadurai/hugo-travelify-theme.git
+[submodule "themes/hugo-xmag"]
+	path = themes/hugo-xmag
+	url = https://github.com/yihui/hugo-xmag.git
+[submodule "themes/vex-hugo"]
+	path = themes/vex-hugo
+	url = https://github.com/themefisher/vex-hugo.git
