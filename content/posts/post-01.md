@@ -6,6 +6,7 @@ author: "Ken"
 
 ---
 
-##First## post at **Tabirogu** !!!
-Hello World!!!
+##First## post at Tabirogu
+Hello World!!
+
 {{< youtube pCPCQgqC8RA >}}
