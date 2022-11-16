@@ -9,7 +9,7 @@
 	url = https://github.com/jimyehoo/gohugo-theme-ananke.git
 [submodule "themes/ga-hugo-theme"]
 	path = themes/ga-hugo-theme
-	url = https://github.com/giraffeacademy/ga-hugo-theme
+	url = https://github.com/jimyehoo/ga-hugo-theme
 [submodule "themes/restaurant-hugo"]
 	path = themes/restaurant-hugo
 	url = https://github.com/gethugothemes/restaurant-hugo.git
