@@ -2,4 +2,9 @@
 This is the single template!!!
 for posts only
 {{ .Content }}
+
+{{ block "footer" . }}
+This is baseof default foot
+{{ end }}
+
 {{ end }}
