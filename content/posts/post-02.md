@@ -5,6 +5,7 @@ draft: false
 author: 'Ken'
 tags: ['food', 'travel', 'hot spring']
 categories: ['sight', 'sound']
+slugs: ['what', 'slugs', 'is']
 ---
 
 my ##second## post!
