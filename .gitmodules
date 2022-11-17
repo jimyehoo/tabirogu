@@ -25,3 +25,9 @@
 [submodule "themes/vex-hugo"]
 	path = themes/vex-hugo
 	url = https://github.com/themefisher/vex-hugo.git
+[submodule "themes/themes/hugo-coder"]
+	path = themes/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
